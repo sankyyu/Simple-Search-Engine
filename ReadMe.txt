@@ -23,7 +23,7 @@ When we are unable to find the keyword or similar word:
 9.txt
 a.txt
 b.txt
-www.csdn.com.txt
+
 --------------------------------------------------------
 Search Engine has initialized successfully!
 Enter the word you want to search for. If the word is not included, a similar word will be chosen.
@@ -48,7 +48,7 @@ When we can find the keyword:
 9.txt
 a.txt
 b.txt
-www.csdn.com.txt
+
 --------------------------------------------------------
 Search Engine has initialized successfully!
 Enter the word you want to search for. If the word is not included, a similar word will be chosen.
@@ -81,7 +81,7 @@ When we cannot find the keyword but we found a similar word:
 9.txt
 a.txt
 b.txt
-www.csdn.com.txt
+
 --------------------------------------------------------
 Search Engine has initialized successfully!
 Enter the word you want to search for. If the word is not included, a similar word will be chosen.

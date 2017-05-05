@@ -1,0 +1,34 @@
+﻿Labs and Centers
+ 
+Center for the Advancement of Secure Systems and Information Assurance
+ 
+The Center for the Advancement of Secure Systems and Information Assurance (CASSIA) is a National Center of Academic Excellence in Information Assurance Education and National Center of Academic Excellence in Information Assurance Research. The mission of the center is to foster collaboration and act as a catalyst for research, education, and entrepreneurship in information assurance and cybersecurity. Please contact Dr. Susanne Wetzel for more information.
+ 
+Computational Systems Biology Laboratory
+ 
+Computational Systems Biology is an emerging discipline that studies complex biological systems where large numbers of diverse and multifunctional elements interact in selective ways. It combines experimental and computational research making it intrinsically interdisciplinary. The combination of computational models and theoretical studies provides a solid foundation to push the envelope in our understanding of life.
+ 
+For more information please visit the Computational Systems Biology Lab
+ 
+Database and Information Management Laboratory
+ 
+The Database and Information Management Laboratory (DBLab) focuses on the development of information infrastructures and data management systems for efficiently and securely managing large volumes of data. In particular, we are actively working on both the traditional database paradigm as well as new opportunities for crossover and collaboration between data management and other fields in computer science. Topics of interest for our group in this context include but are not limited to:
+ ?Security and privacy of data in DBMS
+?Spatio-temporal data management
+?Structured data management
+ 
+Faculty: Hui (Wendy) Wang
+ Ph.D. Students: Ruilin Liu
+ M.Sc Students: Yongjin Zhang
+ 
+Secure Systems Laboratory
+ 
+The Secure Systems Laboratory mission is to pioneer new technologies for usable, secure systems with high assurance. Our cutting edge collaborative research and education projects encompass areas including: Secure Personal Information Space; Network Security; Distributed System Security; Data Mining, Security & Privacy; Language Based Security; Cryptographic Protocols; High Assurance; Biometrics; Botnets and Malware; Forensics.
+ 
+For more information please visit the Secure Systems Laboratory Website.
+ 
+Visual Computing Laboratory
+ 
+The Visual Computing Laboratory mission is to perform cutting edge collaborative research and education in visual computing by advancing the fields of computer vision and graphics, sensor fusion, machine learning, and distributed cognition.
+ 
+For more information please visit our Visual Computing Laboratory website.

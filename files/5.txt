@@ -1,0 +1,43 @@
+﻿Cybersecurity Research
+
+As an increasing degree of social, commercial and governmental activities are conducted electronically and online, privacy and security of information face unprecedented challenges. Researchers in the Department of Computer Science are working on techniques to neutralize existing and impending threats to the security of software and data.
+
+Stevens is recognized by the National Security Agency as a Center of Academic Excellence in Information Assurance Research. This designation, supported by the Center for the Advancement of Secure Systems and Information Assurance (CASSIA), has established the Computer Science Department as a major research center in Cybersecurity, and has opened up numerous opportunities for research initiatives, capacity-building, and instructional program development.
+
+Faculty areas of research include:
+
+Language-based Security
+
+As part of the Secure Systems research thrust, Dr. Adriana Compagnoni studies the application and development of innovative programming language techniques that address security, access control, privacy, and confidentiality issues.
+
+Dr. Dominic Duggan’s research involves advancement of the tools, including semantics, which ensure software is "safe" and "secure." He has worked on module systems for programming-in-the-large, software adaptation for safe dynamic library updates, various extensions of object-oriented languages to enable reuse, type inference, and language-based security.
+
+Security, Cryptography and Anonymity
+
+Dr. Sven Dietrich researches computer and network security, anonymity, cryptographic protocols, and cryptography. His previous work has included a formal analysis of the secure sockets layer protocol (SSL), intrusion detection, analysis of distributed denial-of-service tools, and the security of IP communications in space.
+
+Database Security
+
+Dr. Wendy Wang researches innovative methods to improve database management, with a focus on database security and data privacy.
+
+Research Stories
+
+Mobile App Security
+Dr. David Naumann takes steps to analyze mobile Apps and prevent malware access.
+
+Mobile applications are assuming many of the tasks that a few short years ago could only be carried out on a desktop or laptop computer, and ensuring app security is becoming a matter of great urgency.
+
+Can Privacy and Collaboration Co-exist on the Web?
+New protocols allow individuals and businesses to work together without compromising private information.
+
+Dr. Suzanne Wetzel's security research funded by the National Science Foundation enables computer-based collaboration without exposing private or sensitive information.
+
+Building the Future Internet
+Nebula Project designs a cloud-based Web from the ground up.
+
+Dr. Antonio Nicolosi develops advanced cryptographic techniques to support trustworthiness in computer-based transactions as part of a collaborative effort to heighten Internet security and efficiency.
+
+Post-quantum Cryptography
+Applying a new mathematical approach to cryptography for stronger online security.
+
+Dr. Nicolosi develops new cryptographic tools and protocols while fostering unique collaboration between the cryptography and group-theory research communities.

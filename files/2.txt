@@ -1,0 +1,103 @@
+﻿Publications
+ 
+Adriana Compagnoni
+
+?Philippe Bidinger, and Adriana Compagnoni. (Feb 2009). "Pict Correctness Revisited", Theoretical Computer Science, Elsevier. 410 (2-3), 114-127.  link  .
+?Yifei Bao, Adriana Compagnoni, Joseph Glavy, and Tommy White. (Aug 23-24, 2010). "Computational Modeling for the Activation Cycle of G-proteins by G-protein-coupled Receptors", 4th Workshop on Membrane Computing and Biologically Inspired Process Calculi, Jena, Germany (MeCBIC 2010).
+?Philippe Bidinger and Adriana Compagnoni. (Feb 2009). "Pict Correctness Revisited", Theoretical Computer Science, 2-3 (410), 114-127.  Link  .
+?Eduardo Bonelli and Adriana Compagnoni. (Nov 2007). "Multipoint Session Types for a Distributed Calculus", Proceedings of Trustworthy Global Computing 2007.  Link  .
+?Adriana Compagnoni and Healfdene Goguen (Guest Editors). (Oct 2008). "Theory and Applications of Subtyping: Introduction", Mathematical Structures in Computer Science, Cambridge University Press. 18 (5), 795-796.
+?Adriana Compagnoni, Elsa L. Gunter, and Philippe Bidinger. (May 2008). "Role-based Access Control for Boxed Ambients", Theoretical Computer Science, Festschrift in Honor of Mariangiola Dezani-Ciancaglini, Simona Ronchi Della Rocca. 398 (1-3), 203-216.  Link  .
+?Adriana Compagnoni and Healfdene Goguen. (Dec 2007). "Subtyping a la Church", Festschrift in Honor of Henk Barendregt, Radboud University Nijmegen.  Link  .
+
+
+Dominic Duggan
+
+?D. Duggan and F. Bent. (1996). "Explaining type inference", Science of Computer Programming, Elsevier. 27 (1).
+?D. Duggan, G. Cormack and J. Ophel. (1996). "Kinded type inference for parametric overloading", Acta Informatica, Springer. (33), 21-68.
+?D. Duggan. (1998). "Unification with extended patterns", Theoretical Computer Science, Elsevier. (206), 1-50.
+?D. Duggan. (1999). "Dynamic typing for distributed programming in polymorphic languages", Transactions on Programming Languages and Systems, ACM. 21 (1), 11-45.
+?D. Duggan. (2001). "Higher-order substitutions", Information and Computation, Academic Press. (164), 1-53.
+?D. Duggan and J. Ophel. (2002). "Open and closed scopes for constrained genericity", Theoretical Computer Science, Elsevier. (275), 215-258.
+?D. Duggan and J. Ophel. (2002). "Type checking multi-parameter type classes", Journal of Functional Programming, Academic Press. 12 (2), 133-158.
+?D. Duggan. (2002). "Object type constructors", Acta Informatica, Springer. (38), 367-408.
+?D. Duggan. (2002). "Type-safe dynamic linking with recursive DLLs and shared libraries", Transactions on Programming Languages and Systems, ACM. 24 (6), 711-804.
+?T. Chothia and D. Duggan. (2004). "Abstractions for fault-tolerant global computing", Theoretical Computer Science, Elsevier. 3 (322), 567-613.
+?D. Duggan. (2004). "Type-based cryptographic operations", Journal of Computer Security, 12 (3-4), 485-550.
+?D. Duggan. (2005). "Type-based hot swapping of running libraries", Acta Informatica, Springer. 41 (4-5).
+?T. Chothia and D. Duggan. (2007). "Capability passing processes", Science of Computer Programming, Elsevier. (66), 184-204.
+
+
+Gang Hua
+
+?Noel C. F. Codella, Gang Hua, Apostol Natsev, and John R. Smith. (Dec 2011). "Towards Large Scale Land-cover Recognition of Satellite Images", Invited submission to The 8th International Conference on Information, Communications and Signal Processing (ICICS'2011), Singapore.
+?Michele Merler, Bert Huang, Lexing Xie, Gang Hua, and Apostol Natsev. (2011). "Semantic Model Vectors for Complex Video Event Recognition", IEEE Trans. on Multimedia.
+?Le Wang, Jianru Xue, Nanning Zheng, Gang Hua. (Nov 2011). "Automatic Salient Object Extraction with Contextual Cue", Proc. IEEE International Conf. on Computer Vision (ICCV'2011), Barcelona, Spain.  Link  .
+?Shiliang Zhang, Qi Tian, Gang Hua, Qingming Huang, and Wen Gao. (2011). "Generating Descriptive Visual Words and Visual Phrases for Large-Scale Image Applications", IEEE Trans. on Image Processing, 20 (9), pp.2664-2677.  Link  .
+?Xiang Huang, Gang Hua, Lance Williams, and Jack Tumblin. (Nov 2011). "What Characterizes a Shadow Boundary under the Sun and Sky?", Proc. IEEE International Conf. on Computer Vision (ICCV'2011), Barcelona, Spain.  Link  .
+?Shiliang Zhang, Qi Tian, Gang Hua, Wengang Zhou, Qingming Huang, Houqiang Li, and Wen Gao. "Modeling Spatial and Semantic Cues for Large-Scale Near-Duplicated Image Retrieval", Computer Vision and Image Understanding, Special issue on Featureoriented Image and Video Computing for Extracting Contexts and Semantics. 115 (3), pp.403-414.  Link  .
+?Zhenxing Niu, Gang Hua, Xinbo Gao, and Qi Tian. (Jun 2011). "Spatial-DiscLDA for Visual Recognition", Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR'2011), Colorado Springs, Colorado.
+?Xiaohui Shen, Gang Hua, Lance Williams, and Ying Wu. (2011). "Dynamic Hand Gesture Recognition: An Exemplar based Approach from Motion Divergence Fields", Image and Vision Computing, Invited submission to special issue on Best of FG'2011.
+?Xiaohui Shen, Gang Hua, Lance Williams, and Ying Wu. (Mar 2011). "Motion Divergence Fields for Dynamic Hand Gesture Recognition", Proc. IEEE 9th IEEE Conf. on Automatic Face and Gesture Recognition (FG'2011), Santa Barbara, CA.  Link  .
+?Matthew Brown, Gang Hua, and Simon Winder. (Jan 2011). "Discriminative Learning of Local Image Descriptors", IEEE Trans. on Pattern Analysis and Machine Intelligence, 33 (1), pp.43-57.  Link  .
+
+ 
+David Naumann
+
+?Andrey Chudnov and David Naumann. (Oct 13, 2015). "Information Flow Monitoring for JavaScript", Computer and Communications Security (CCS). ACM Press. 629-643.
+?Gary Leavens and David Naumann. (Aug 2015). "Behavioral Subtyping, Specification Inheritance, and Modular Reasoning", Transactions on Programming Languages and Systems, ACM Press. 37 (4), 13:1-13:88.
+?Andrey Chudnov, George Kuan, David Naumann. (Jul 2014). "Information flow monitoring as abstract interpretation for relational logic", Computer Security Foundations Symposium. Anupan Datta and Cedric Fournet, IEEE Press.
+?Francois Dupressoir, Andrew D. Gordon, Jan Jurjens, David A Naumann. (2014). "Guiding a general-purpose C verifier to prove cryptographic protocols", Journal of Computer Security.
+?Chunyu Tang, David Naumann, Susanne Wetzel. (Nov 2013). "Analysis of authentication and key establishment in inter-generational mobile telephony", International Symposium on Trust, Security, and Privacy for Emerging Applications.
+?Anindya Banerjee, David A. Naumann. (Jun 2013). "Local Reasoning for Global Invariants, Part II: Dynamic Boundaries", Journal of the ACM, ACM Press. 60 (3), 19:1-19:73.  Local Reasoning for Global Invariants, Part II: Dynamic Boundaries  .
+?Anindya Banerjee, David A. Naumann, Stan Rosenberg. (Jun 2013). "Local Reasoning for Global Invariants, Part I: Region Logic", Journal of the ACM, ACM Press. 60 (3), 18:1-18:56.  Local Reasoning for Global Invariants, Part I: Region Logic  .
+?Stan Rosenberg, Anindya Banerjee, David A Naumann. (Jan 2012). "Decision Procedures for Region Logic", 13th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI). Springer. pages 379-395, vol 7148 of Lecture Notes in Computer Science. 7148 379-395.
+?David Naumann, Augusto Sampaio, and Leila Silva. (2012). "Refactoring and Representation Independence for Class Hierarchies", Theoretical Computer Science, 433 60-97.
+?Fran?ois Dupressoir, Andrew D. Gordon, Jan Jurjens, and David A.Naumann. (2011). "Guiding a General-Purpose C Verifier to Prove Cryptographic Protocols", In Proceedings, IEEE Computer Security Foundations Symposium.
+?David A Naumann and Anindya Banerjee. (Mar 2010). "Dynamic Boundaries: Information Hiding by Second Order Framing with First Order Assertions", European Symposium on Programming . Andrew Gordon, Springer LNCS. 6012 2-22.
+?Anindya Banerje and Mike Barnett and David Naumann. (Oct 2008). "Boogie Meets Regions: a Verification Experience Report", Verified Software: Theories, Tools, Experiments (VSTTE). 177-191.
+?Anindya Banerjee and David Naumann and Stan Rosenberg. (Jul 2008). "Regional Logic for Local Reasoning about Global Invariants", European Conference on Object-Oriented Programming (ECOOP). 387-411.
+?Anindya Banerjee and David Naumann and Stan Rosenberg. (May 2008). "Expressive Declassification Policies and Modular Static Enforcement", IEEE Symposium on Security and Privacy. IEEE Press. 339-353.
+?Andrey Chudnov and David A Naumann. (Jun 2010). "Information Flow Monitor Inlining", Computer Security Foundations Symposium. IEEE Press.
+
+
+Wendy Wang
+
+?Chih-Cheng Chang, Brian Thompson, Hui Wang, Danfeng Yao. (Apr 13, 2010). "Towards Publishing Recommendation Data With Predictive Anonymization", ACM Symposium on Information, Computer and Communications Security (AsiaCCS), 2010.
+?Hui Wang. "Privacy-preserving data publishing in cloud computing", Vol.25, No. 3, Journal of Computer Science and Technology, 2010.
+?Nicolas Bruno, Hui Wang. "Answering Top-K Selection Queries in a Relational Engine", IEEE Transaction on Knowledge and Data Engineering (TKDE), 2007.
+?Hui Wang, Ruilin Liu. (Apr 1, ). "Privacy-Preserving Publishing Data with Full Functional Dependencies", International Conference on Database Systems for Advanced Applications (DASFAA), 2010.
+?Xiaoying Wu, Dimitri Theodoratos, Wendy Hui Wang. "Answering XML Queries Using Materialized Views Revisited", The 18th ACM Conference on Information and Knowledge Management (CIKM),2009.
+?Hui Wang, Ruilin Liu, Xiuyuan Zheng, Yingying Chen, Hongbo Liu. "To Do or Not to Do: Metadata-guided Query Evaluation in Content Caching Networks", IEEE Globecom, 2009.
+?Yingying Chen, Hui Wang, Xiuyuan Zheng, Jie Yang. ", "Prediction of Near Likely Nodes in Data-Centric Mobile Wireless Networks"", Proceedings of IEEE MILCOM, 2009.
+?Ruilin Liu, Hui Wang. "Integrity Verification of Outsourced XML Databases", IEEE International Conference on Privacy, Security, Risk and Trust (PASSAT-09).
+?Wendy Hui Wang, Ruilin Liu. "Hiding Distinguished Ones into Crowd: Privacy-Preserving Publishing Data with Outliers", The 12th International Conference on Extending Database Technology (EDBT), 2009.
+?Roman Yarovoy, Francesco Bonchi, Laks V. S. Lakshmanan, Wendy Hui Wang. "Anonymizing Moving Objects: How to Hide a MOB in a Crowd?", The 12th International Conference on Extending Database Technology (EDBT), 2009.
+?Hui Wang. "Ambiguity: Hide the Presence of Individuals and Their Privacy with Low Information Loss", The 14th International Conference on Management of Data (COMAD) 2008.
+?Hui Wang, Laks V.S Lakshmanan,. "Efficient Secure Query Evaluation over Encrypted XML Database", The 32th International Conference on Very Large Database (VLDB), 2006.
+?Laks V.S Lakshmanan, Hui Wang, Jessica Zheng Zhao. "Answering Tree Pattern Queries Using Views", The 32th International Conference on Very Large Database (VLDB), 2006.
+?Hui Wang, Laks V.S. Lakshmanan. (Oct 2006). "Probabilistic Privacy Analysis of Published Views", Workshop on Privacy in the Electronic Society (WPES), CCS, 2006.
+?Laks V.S Lakshmanan, Ganesh Ramesh, Hui Wang, Jessica Zheng Zhao,. " Testing Satisfiability of Tree Pattern Queries", The 30th International Conference on Very Large Databases (VLDB), 2004.
+
+ 
+Susanne Wetzel
+
+?Savarte, D., Wetzel, S., Patterson, W. (2011). "Analyzing Massively Collaborative Mathematics Projects", The Mathematical Intelligencer, Springer. 33 (1), 9-18.
+?Lechler, T., Wetzel, S., Jankowski, R. (2011). "Identifying and Evaluating the Threat of Transitive Information Leakage in Healthcare Systems", Proceedings of the 44th Hawaii International Conference on System Sciences (HICSS 44).
+?Cordasco, J., Wetzel, S.. (2008). "Cryptographic versus Trust-based Methods for MANET Routing Security", Electronic Notes in Theoretical Computer Science, Elsevier. 197 (2), 131-140.
+?Mayer, D., Teubert, D., Wetzel, S., Meyer, U. (2011). "Implementation and Performance Evaluation of Privacy-preserving Fair Reconciliation Protocols on Ordered Sets", Proceedings of the 1st ACM Conference on Data and Application Security and Privacy (CODASPY). 109-120.
+?Tsow, A., Jakobsson, M., Yang, L., Wetzel, S.. (2006). "Warkitting: the Drive-by Subversion of Wireless Home Routers", Journal of Digital Forensics Practice, 1 (3), 179-192.
+?Mayer, D., Neugebauer, G., Meyer, U., Wetzel, S. (2011). "Enabling Fair and Privacy-preserving Applications Using Reconciliation Protocols on Ordered Sets", Proceedings of the 34th IEEE Sarnoff Symposium.
+?Backes, W., Wetzel, S.. (2002). "Heuristics on Lattice Basis Reduction in Practice", ACM Journal on Experimental Algorithms, ACM. 7.
+?Tang, C., Naumann, D., Wetzel, S. (2011). "Symbolic Analysis for Security of Roaming Protocols in Mobile Networks", Proceedings of 7th International Conference on Security and Privacy in Communication Networks (Securecomm).
+?Monrose, F.,Reiter, M.K., Wetzel, S.. (2002). "Password Hardening based on Keystroke Dynamics", International Journal of Information Security, Springer. 1 (2), 69-83.
+?Backes, W., Wetzel, S. (2011). "Parallel Lattice Basis Reduction - The Road to Many-Core", Proceedings of the 13th IEEE International Conference on High Performance Computing and Communications (HPCC).
+?Backes, W., Wetzel, S. (2011). "Improving the Parallel Schnorr-Euchner LLL Algorithm", Proceedings of 11th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP).
+?Braun, M., Meyer, U., Wetzel, S.. (2010). "Efficient Mutual Authentication for Multi-Domain RFID Systems Using Distributed Signatures (Award for Most Innovative Technology-Related Paper)", 4th International IFIP WG 11.2 Workshop for Information Security Theory and Practices (WISTP). 122-137.
+?Cordasco, J., Wetzel, S.. (2009). "An Attacker Model for MANET Routing Security", 2nd ACM Conference on Wireless Network Security (WiSec). 87-94.
+?Backes, W., Wetzel, S.. (2009). "Parallel Lattice Basis Reduction using a Multi-Threaded Schnorr-Euchner LLL Algorithm", 15th International European Conference on Parallel and Distributed Computing (Euro-Par). 960-973.
+?Jakobsson, M., Yang, L., Wetzel, S.. (2008). "Quantifying the Security of Preference-based Authentication", ACM CCS 2008 Workshop on Digital Identity Management (DIM). 61-69.
+?Jakobsson, M., Stolterman, E., Wetzel, S., Yang, L.. (2008). "Love and Authentication", ACM Computer/Human Interaction Conference (CHI).
+?Meyer, U., Wetzel, S., Ioannidis, S.. (2007). "Distributed Privacy-Preserving Policy Reconciliation", IEEE International Conference on Communications (ICC). 1342-1349.
+?Backes, W., Wetzel, S.. (2007). "An Efficient LLL Gram Using Buffered Transformations", 10th International Workshop on Computer Algebra in Scientific Computing (CASC). Springer. 31-44.
+?Meyer, U., Wetzel, S.. (2006). " Introducing History-Enriched Security Context Transfer to Enhance the Security of Subsequent Handover", 3rd IEEE International Workshop on Pervasive Computing and Communication Security (PerSec). 277-282.

@@ -1,0 +1,17 @@
+﻿Research Overview
+
+Computer Science Department Faculty are renowned experts in their respective fields, winning numerous grants from prominent agencies such as the National Science Foundation and the Office of Naval Research. The department boasts world-class research centers and laboratories, including a National Center of Academic Excellence in Information Assurance Education and National Center of Academic Excellence in Information Assurance Research (CAE-R) in its Center for the Advancement of Secure Systems and Information Assurance (CASSIA).
+
+Faculty members frequently publish their cutting-edge research in academic and professional journals, often editing editions of those journals and chairing conferences and workshops in their disciplines. They also consult and collaborate with companies such as Microsoft, IBM, Google, Verizon, Lucent Technologies, Daimler-Chrysler, and top industry laboratories and academic departments throughout the world.
+
+The major research interests of the faculty in the department are:
+?Computer Security: privacy-preserving data mining, wireless network security, cryptography, phishing, and language-based security including information flow control.
+?Computer Vision, Visualization, and Graphics: 3D shape from images, differential geometry methods, organizing unorganized point clouds, dynamic scene analysis, shape analysis and indexing.
+?Programming Languages
+?Theoretical Computer Science
+?Networks
+?Computational Biology
+
+Video Gallery
+
+Visit the department video gallery which highlights some of the exciting work students and faculty have worked on.

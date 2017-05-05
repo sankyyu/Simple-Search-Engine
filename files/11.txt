@@ -1,0 +1,1393 @@
+Graduate Courses
+
+
+Graduate Courses
+
+
+
+ 
+
+
+Here you will find information about graduate courses offered by the Department of Computer Science at Stevens Institute of Technology. For each course, you can find out the name of the course coordinator (the individual responsible for monitoring content and delivery of the course), when the course is offered, and the observable outcomes expected of students who take that course.
+
+For Undergraduate Courses, click here
+ 
+
+
+Undergraduate students may take any 500-level course for which they satisfy the prerequisites. Higher-numbered graduate courses may be taken only by undergraduates who satisfy the prerequisites, have a 3.0 GPA and receive permission of the instructor.
+ 
+
+
+
+
+
+
+
+
+
+
+Course Number
+
+Course Name
+
+Prereqs
+
+Coreqs
+
+Course Coordinator 
+
+Typically Offered: Classroom 
+
+Typically Offered: Webcampus 
+
+
+
+CS 501
+
+Introduction to Java Programming
+Outcomes | Syllabus
+
+ 
+
+ 
+
+Jurkat
+
+ 
+
+Fall, Spring, Summer
+
+ 
+
+CS 503
+
+Discrete Mathematics for Cryptography
+Outcomes | Syllabus
+
+MA 502 or CS 135
+
+ 
+
+Suffel
+
+Fall
+
+Spring, Summer
+
+ 
+
+CS 506
+
+Introduction to IT Security
+Outcomes | Syllabus
+
+MA 502
+
+ 
+
+Wetzel
+
+unlikely
+
+ 
+
+ 
+
+CS 510
+
+Principles of Programming Languages
+Outcomes | Syllabus
+
+MA 502 and CS 590
+
+ 
+
+Naumann
+
+occasionally
+
+ 
+
+ 
+
+CS 511
+
+Concurrent Programming
+Outcomes | Syllabus
+
+CS 392 or CS 520
+
+ 
+
+Duchamp
+
+Fall
+
+ 
+
+ 
+
+CS 513
+
+Knowledge Discovery and Data Mining
+Outcomes | Syllabus
+
+MA 331 or equivalent
+
+ 
+
+Dehnad
+
+Fall, Spring
+
+Summer
+
+ 
+
+CS 514
+
+Computer Architecture
+Outcomes | Syllabus
+
+CS 550 and (CS 590 or CS 570)
+
+ 
+
+Peyrovian
+
+Fall
+
+occasionally
+
+ 
+
+CS 519
+
+Introduction to E-Commerce
+Outcomes | Syllabus
+
+none
+
+ 
+
+Super
+
+Fall
+
+ 
+
+ 
+
+CS 520
+
+Introduction to Operating Systems
+Outcomes | Syllabus
+
+(CS 590 or CS 570) and CS 550
+
+ 
+
+Faynberg
+
+Fall
+
+ 
+
+ 
+
+CS 521
+
+TCP/IP Networking
+Outcomes | Syllabus
+
+CS 520 or CS 492
+
+ 
+
+Rahman
+
+Spring
+
+ 
+
+ 
+
+CS 522
+
+Mobile Systems and Applications
+Outcomes | Syllabus
+
+CS 182 or CS 385 or CS 570 or CS 590; programming experience with Java or C#
+
+ 
+
+Duggan
+
+Spring
+
+ 
+
+ 
+
+CS 524
+
+Introduction to Cloud Computing
+Outcomes | Syllabus
+
+CS 492 or CS 520
+
+ 
+
+Faynberg
+
+Spring
+
+ 
+
+ 
+
+CS 526
+
+Enterprise and Cloud Computing
+Outcomes | Syllabus
+
+CS 182 or CS 385 or CS 570 or CS 590; programming experience with Java or C#
+
+ 
+
+Duggan
+
+ 
+
+Fall
+
+ 
+
+CS 532
+
+3D Computer Vision
+Outcomes | Syllabus
+
+none
+
+ 
+
+Mordohai
+
+Fall
+
+ 
+
+ 
+
+CS 537
+
+Interactive Computer Graphics
+Outcomes | Syllabus
+
+CS 590 or CS 570 or CS 385 or CS 182
+
+ 
+
+vacant
+
+Fall
+
+Spring
+
+ 
+
+CS 539
+
+Real-Time Rendering, Gaming, and Simulation Programming
+Outcomes | Syllabus
+
+CS 537
+
+ 
+
+vacant
+
+Spring
+
+ 
+
+ 
+
+CS 541
+
+Artificial Intelligence
+Outcomes | Syllabus
+
+CS 590 or CS 570 or CS 385 or CS 182
+
+ 
+
+Codella
+
+Fall
+
+ 
+
+ 
+
+CS 544
+
+Health Informatics
+Outcomes | Syllabus
+
+ 
+
+ 
+
+Kleinberg
+
+Spring
+
+ 
+
+ 
+
+CS 545
+
+Human-Computer Interaction
+Outcomes | Syllabus
+
+CS 590 or CS 570 or CS 385 or CS 182
+
+ 
+
+Vesonder
+
+Fall
+
+Spring of even-numbered years
+
+ 
+
+CS 546
+
+Web Programming
+Outcomes | Syllabus
+
+ (CS 561 or CS 442) and (CS 146 or SOC 611) 
+
+ 
+
+Gabarro
+
+Fall, Spring, Summer
+
+Summer
+
+ 
+
+CS 548
+
+Enterprise Software Architecture and Design
+Outcomes | Syllabus
+
+CS 182 or CS 385 or CS 570 or CS 590; programming experience with Java or C#; SOC students: SOC 605
+
+ 
+
+Duggan
+
+Fall
+
+Spring
+
+ 
+
+CS 549
+
+Distributed Systems and Cloud Computing
+Outcomes | Syllabus
+
+CS 182 or CS 385 or CS 570 or CS 590; programming experience with Java or C#
+
+ 
+
+Duggan
+
+Fall
+
+Summer
+
+ 
+
+CS 550
+
+Computer Organization and Programming 
+Outcomes | Syllabus
+
+Undergraduates require permission of advisor
+
+ 
+
+Banduk
+
+ 
+
+Fall,Spring
+
+ 
+
+CS 554
+
+Web Programming II
+Outcomes | Syllabus
+
+CS 546
+
+ 
+
+Gabarro
+
+Spring
+
+ 
+
+ 
+
+CS 555
+
+Agile Methods for Software Development
+Outcomes | Syllabus
+
+O-O programming experience
+
+ 
+
+Ardis (SSE)
+
+Fall, Spring
+
+Fall, Spring
+
+ 
+
+CS 558
+
+Computer Vision
+Outcomes | Syllabus
+
+(CS 590 or CS 570 or CS 385 or CS 182) and (MA 232 or equivalent)
+
+ 
+
+vacant
+
+Spring
+
+ 
+
+ 
+
+CS 559
+
+Machine Learning: Fundamentals and Applications
+Outcomes | Syllabus
+
+MA 222 or equivalent 
+
+ 
+
+Mordohai
+
+Fall
+
+ 
+
+ 
+
+CS 561
+
+Database Management Systems I
+Outcomes | Syllabus
+
+CS 590 or CS 570
+
+ 
+
+Kim
+
+Fall, Summer
+
+Fall, Spring, Summer
+
+ 
+
+CS 562
+
+Database Management Systems II
+Outcomes | Syllabus
+
+CS 561 or CS 442 
+
+ 
+
+Kim 
+
+Spring
+
+Summer
+
+ 
+
+CS 570
+
+Introduction to Programming, Data Structures and Algorithms
+Outcomes | Syllabus
+
+Closed to undergraduates
+
+ 
+
+Pfeffer
+
+Fall, Spring
+
+Fall, Spring, Summer
+
+ 
+
+CS 573
+
+Fundamentals of Cybersecurity
+Outcomes | Syllabus
+
+CS 590 or CS 570 or CS 385 or CS 182
+
+ 
+
+Amoroso 
+
+Fall, Spring
+
+ 
+
+ 
+
+CS 574
+
+Object-Oriented Analysis and Design
+Outcomes | Syllabus
+
+CS 590 or CS 570 or CS 385 or CS 182
+
+ 
+
+Klappholz 
+
+Spring
+
+Fall, Summer
+
+ 
+
+CS 576
+
+Secure Systems
+Outcomes | Syllabus
+
+(CS 306 or CS 506) and (CS 590 or CS 570 or CS 385 or CS 182)
+
+CS 577
+
+Portokalidis
+
+Fall
+
+ 
+
+ 
+
+CS 577
+
+Cybersecurity Laboratory
+Outcomes | Syllabus
+
+(CS 306 or CS 506) and (CS 590 or CS 570 or CS 385 or CS 182)
+
+CS 576
+
+Portokalidis
+
+Fall
+
+ 
+
+ 
+
+CS 578
+
+Privacy in a Networked World
+Outcomes | Syllabus
+
+CS 579 or CS 594 or CS 506 or CS 306 
+
+ 
+
+Wetzel 
+
+Spring
+
+ 
+
+ 
+
+CS 579
+
+Foundations of Cryptography
+Outcomes | Syllabus
+
+CS 503 and (CS 590 or CS 570 or CS 385 or CS 182)
+
+ 
+
+Nicolosi 
+
+Spring
+
+ 
+
+ 
+
+CS 582
+
+Causal Inference
+Outcomes | Syllabus
+
+none
+
+ 
+
+Kleinberg
+
+Fall
+
+ 
+
+ 
+
+CS 585
+
+Introduction to Game Development
+Outcomes | Syllabus
+
+CS 182 or CS 385 or CS 570 or CS 590
+
+ 
+
+Grapsas
+
+Fall
+
+ 
+
+ 
+
+CS 587
+
+Game Engine Design
+Outcomes | Syllabus
+
+CS 537 and CS 539 and CS 541
+
+ 
+
+Grapsas
+
+Spring
+
+ 
+
+ 
+
+CS 590
+
+Algorithms
+Outcomes | Syllabus
+
+CS 501 or CS 570
+
+ 
+
+Pfeffer
+
+ 
+
+Fall, Spring, Summer
+
+ 
+
+CS 593
+
+Data Mining II: Advanced Algorithms for Big Data
+Outcomes | Syllabus
+
+CS 513
+
+ 
+
+Dehnad
+
+Spring
+
+ 
+
+ 
+
+CS 594
+
+Enterprise Security and Information Assurance
+Outcomes | Syllabus
+
+CS 548 
+
+ 
+
+Duggan 
+
+ 
+
+Spring
+
+ 
+
+CS 597
+
+User Experience Design and Programming
+Outcomes | Syllabus
+
+CS 545
+
+ 
+
+Vesonder
+
+Spring of odd-numbered years
+
+ 
+
+ 
+
+
+
+
+
+
+Graduate Courses (600-899) 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Course Number
+
+Course Name
+
+Prereqs
+
+Coreqs
+
+Course Coordinator 
+
+Typically Offered: Classroom 
+
+Typically Offered: Webcampus 
+
+
+
+CS 600
+
+Advanced Algorithm Design and Implementation
+Outcomes | Syllabus
+
+(CS 135 or MA 502) and (CS 590 or CS 570 or CS 385 or CS 182)
+
+ 
+
+Peyrovian
+
+ 
+
+Fall, Spring
+
+ 
+
+CS 601
+
+Algorithmic Complexity
+Outcomes | Syllabus
+
+CS 600
+
+ 
+
+Nicolosi
+
+Spring
+
+ 
+
+ 
+
+CS 609
+
+Data Management and Exploration on the Web
+Outcomes | Syllabus
+
+CS 561 or CS 442
+
+ 
+
+Wang
+
+Spring
+
+ 
+
+ 
+
+CS 615
+
+Systems Administration
+Outcomes | Syllabus
+
+CS 520 or CS 492
+
+ 
+
+Schaumann
+
+Spring
+
+ 
+
+ 
+
+CS 631
+
+Advanced Programming in the UNIX Environment
+Outcomes | Syllabus
+
+CS 520
+
+ 
+
+Schaumann
+
+Fall
+
+ 
+
+ 
+
+CS 643
+
+Formal Verification of Software
+Outcomes | Syllabus
+
+CS 600
+
+ 
+
+Naumann
+
+occasionally
+
+ 
+
+ 
+
+CS 665
+
+Network Forensics
+Outcomes | Syllabus
+
+CS 521 and CS 579
+
+ 
+
+Portokalidis
+
+occasionally (Spring)
+
+ 
+
+ 
+
+CS 675
+
+Threats, Exploits, and Countermeasures 
+Outcomes | Syllabus
+
+CS 576 and CS 577 and CS 579
+
+ 
+
+Portokalidis
+
+occasionally (Spring)
+
+ 
+
+ 
+
+CS 677
+
+Parallel Programming for Many-core Processors
+Outcomes | Syllabus
+
+CS 537 or CS 511 or CS 631
+
+ 
+
+Mordohai
+
+Spring
+
+ 
+
+ 
+
+CS 693
+
+Cryptographic Protocols
+Outcomes | Syllabus
+
+CS 579
+
+ 
+
+Nicolosi
+
+occasionally (Fall)
+
+ 
+
+ 
+
+CS 695
+
+Host Forensics
+Outcomes | Syllabus
+
+CS 506 and (CS 392 or CS 631)
+
+ 
+
+Portokalidis
+
+occasionally (Spring)
+
+ 
+
+ 
+
+CS 696
+
+Database Security
+Outcomes | Syllabus
+
+(CS 306 or CS 506) and (CS 561 or CS 442)
+
+ 
+
+Wang
+
+occasionally
+
+ 
+
+ 
+
+CS 701
+
+CS Co-Op Education Project
+Outcomes
+
+ 
+
+ 
+
+Co-op Office
+
+ 
+
+ 
+
+ 
+
+CS 703
+
+Curricular Practical Training
+Outcomes
+
+Permission of instructor
+
+ 
+
+Gabarro
+
+Fall, Spring, Summer 1, Summer 2
+
+ 
+
+ 
+
+CS 800
+
+Special Problems in Computer Science (M.S.)
+Outcomes
+
+Permission of instructor
+
+ 
+
+Each full time faculty member has his/her own section
+
+Fall, Spring, Summer
+
+ 
+
+ 
+
+CS 801
+
+Special Problems in Computer Science (Ph.D.)
+Outcomes
+
+Permission of instructor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CS 803
+
+Special Problems in Computer Science (Engineer degree)
+Outcomes
+
+Permission of instructor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CS 810
+
+Special Topics in Computer Science
+Outcomes | Syllabus
+
+Permission of instructor
+
+ 
+
+ 
+
+occasionally
+
+ 
+
+ 
+
+CS 950
+
+Design Project (Engineer degree)
+Outcomes
+
+Permission of instructor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+SOC Courses (500-899) 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Course Number
+
+Course Name
+
+Prereqs
+
+Coreqs
+
+Course Coordinator 
+
+Typically Offered: Classroom 
+
+Typically Offered: Webcampus 
+
+
+
+SOC 510/CS 545
+
+Human-Computer Interaction
+Outcomes | Syllabus
+
+CS 590 or CS 385 or CS 182
+
+ 
+
+Vesonder
+
+Spring
+
+Fall, Spring
+
+ 
+
+SOC 521/SSW 564
+
+Software Requirements Analysis and Engineering
+Outcomes | Syllabus
+
+SOC 606
+
+ 
+
+School of Systems and Enterprises
+
+Fall
+
+ 
+
+ 
+
+SOC 542/CS 548
+
+Enterprise Software Architecture and Design
+Outcomes | Syllabus
+
+CS 590 or CS 385 or CS 182
+
+ 
+
+Duggan
+
+Fall
+
+Spring
+
+ 
+
+SOC 550/CS 513
+
+Knowledge Discovery and Data Mining
+Outcomes | Syllabus
+
+MA 331 or equivalent
+
+ 
+
+Dehnad
+
+Fall, Spring
+
+Summer
+
+ 
+
+SOC 551/CS 578
+
+Privacy in a Networked World
+Outcomes | Syllabus
+
+CS 579 or CS 594 or CS 506
+
+ 
+
+Wetzel
+
+Spring
+
+occasionally
+
+ 
+
+SOC 552/CS 544
+
+Health Informatics
+Outcomes | Syllabus
+
+SOC 542
+
+ 
+
+Kleinberg
+
+ 
+
+ 
+
+ 
+
+SOC 553
+
+Introduction to Text Mining and Statistical Natural Language Processing
+Outcomes | Syllabus
+
+Programming experience and knowledge of Java or C#
+
+ 
+
+Jurkat
+
+ 
+
+Spring
+
+ 
+
+SOC 594/CS 594
+
+Enterprise Security and Information Assurance
+Outcomes | Syllabus
+
+SOC 542
+
+ 
+
+Duggan
+
+ 
+
+Fall
+
+ 
+
+SOC 605
+
+Introduction to Service Oriented Computing
+Outcomes | Syllabus
+
+none
+
+ 
+
+Schwartz
+
+ 
+
+Fall
+
+ 
+
+SOC 606
+
+Introduction to Developing Internet Applications
+Outcomes | Syllabus
+
+SOC 605
+
+SOC 611
+
+vacant
+
+ 
+
+Spring
+
+ 
+
+SOC 611
+
+Fundamentals of Service Oriented Computing
+Outcomes | Syllabus
+
+ 
+
+ 
+
+vacant
+
+ 
+
+Fall
+
+ 
+
+SOC 703
+
+Curricular Practical Training
+Outcomes
+
+Permission of instructor
+
+ 
+
+Gabarro
+
+Fall, Spring, Summer 1, Summer 2
+
+ 
+
+ 
+
+SOC 810
+
+Special Topics in Service Oriented Computing
+Outcomes
+
+Permission of instructor
+
+ 
+
+ 
+
+ 
+
+ 

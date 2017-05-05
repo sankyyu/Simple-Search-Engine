@@ -1,0 +1,518 @@
+﻿Undergraduate Courses
+.
+
+For Graduate Courses, click here
+
+
+
+
+
+
+
+
+
+
+Course Number
+
+Course Name
+
+Prereqs
+
+Coreqs
+
+Course Coordinator 
+
+Typically Offered: Classroom 
+
+Typically Offered: Webcampus 
+
+
+
+CS 105
+
+Introduction to Scientific Computing
+Outcomes | Syllabus
+
+ 
+
+ 
+
+Damopoulos
+
+Fall, Spring
+
+Summer (as part of Euclid online program for high school students)
+
+ 
+
+CS 110
+
+Creative Problem Solving with Computing
+Outcomes | Syllabus
+
+ 
+
+ 
+
+Duchamp
+
+Fall
+
+ 
+
+ 
+
+CS 115
+
+Introduction to Computer Science
+Outcomes | Syllabus
+
+ 
+
+ 
+
+Borowski
+
+Fall, Spring
+
+ 
+
+ 
+
+CS 135
+
+Discrete Structures
+Outcomes | Syllabus
+
+ 
+
+ 
+
+Engling
+
+Fall, Spring
+
+ 
+
+ 
+
+CS 146
+
+Introduction to Web Programming and Project Development
+Outcomes | Syllabus
+
+ 
+
+ 
+
+Gabarro
+
+Fall
+
+ 
+
+ 
+
+CS 181
+
+Introduction to Computer Science Honors I
+Outcomes | Syllabus
+
+ 
+
+ 
+
+Nicolosi
+
+Fall
+
+ 
+
+ 
+
+CS 182
+
+Introduction to Computer Science Honors II
+Outcomes | Syllabus
+
+CS 181
+
+CS 135
+
+Gabarro
+
+Spring
+
+ 
+
+ 
+
+CS 188
+
+Seminar in Computer Science
+Outcomes | Syllabus
+
+ 
+
+ 
+
+Duchamp
+
+Fall, Spring
+
+ 
+
+ 
+
+CS 284
+
+Data Structures
+Outcomes | Syllabus
+
+CS 115
+
+CS 135
+
+Gabarro
+
+Fall, Spring
+
+ 
+
+ 
+
+CS 306
+
+Introduction to IT Security
+Outcomes | Syllabus
+
+CS 135 or MA 134
+
+ 
+
+Wetzel
+
+Fall
+
+ 
+
+ 
+
+CS 334
+
+Automata and Computation
+Outcomes | Syllabus
+
+CS 115, CS 135
+
+ 
+
+Engling
+
+Fall
+
+ 
+
+ 
+
+CS 347
+
+Software Development Process
+Outcomes | Syllabus
+
+CS 181 or CS 284, CS 135
+
+ 
+
+Duchamp
+
+Spring
+
+ 
+
+ 
+
+CS 370
+
+Creative Problem Solving and Team Programming
+Outcomes | Syllabus
+
+CS 182 or CS 385
+
+ 
+
+Borowski
+
+Spring
+
+ 
+
+ 
+
+CS 383
+
+Computer Organization and Programming
+Outcomes | Syllabus
+
+CS 115
+
+CS 181 or CS 284
+
+Damopoulos
+
+Fall
+
+ 
+
+ 
+
+CS 385
+
+Algorithms
+Outcomes | Syllabus
+
+CS 181 or CS 284
+
+ 
+
+Borowski
+
+Fall, Spring, Summer 1
+
+ 
+
+ 
+
+CS 392
+
+Systems Programming
+Outcomes | Syllabus
+
+CS 182 or CS 385
+
+ 
+
+Gabarro
+
+Fall, Spring
+
+ 
+
+ 
+
+CS 397
+
+Outreach Participation
+Outcomes | Syllabus
+
+Depends on subject
+
+ 
+
+ 
+
+As needed
+
+ 
+
+ 
+
+CS 423
+
+Senior Design I
+Outcomes | Syllabus
+
+CS 182 or CS 385, CS 347
+
+ 
+
+Klappholz
+
+Fall
+
+ 
+
+ 
+
+CS 424
+
+Senior Design II
+Outcomes | Syllabus
+
+CS 423
+
+ 
+
+Klappholz
+
+Spring
+
+ 
+
+ 
+
+CS 442
+
+Database Management Systems
+Outcomes | Syllabus
+
+CS 182 or CS 385
+
+ 
+
+Wang
+
+Fall
+
+ 
+
+ 
+
+CS 443
+
+Database Practicum
+Outcomes | Syllabus
+
+ 
+
+CS 442
+
+Klappholz
+
+Fall
+
+ 
+
+ 
+
+CS 465
+
+Selected Topics in Computer Science
+Outcomes
+
+Depends on subject
+
+ 
+
+ 
+
+Occasionally
+
+ 
+
+ 
+
+CS 485
+
+Societal Impact of Information Technologies
+Outcomes | Syllabus
+
+ 
+
+ 
+
+Duchamp
+
+Fall
+
+ 
+
+ 
+
+CS 488
+
+Computer Architecture
+Outcomes | Syllabus
+
+CS 383
+
+MA 222
+
+Peyrovian
+
+Spring
+
+ 
+
+ 
+
+CS 492
+
+Operating Systems
+Outcomes | Syllabus
+
+CS 383, CS 392
+
+ 
+
+Wang
+
+Spring
+
+ 
+
+ 
+
+CS 496
+
+Principles of Programming Languages
+Outcomes | Syllabus
+
+CS 334
+
+CS 182 or CS 385
+
+Naumann
+
+Spring
+
+ 
+
+ 
+
+CS 497
+
+Independent Study
+Outcomes
+
+ 
+
+ 
+
+ 
+
+On demand
+
+ 
+
+ 
+
+CS 498
+
+Senior Research I
+Outcomes
+
+ 
+
+ 
+
+ 
+
+On demand
+
+ 
+
+ 
+
+CS 499
+
+Senior Research II
+Outcomes
+
+ 
+
+ 
+
+ 
+
+On demand

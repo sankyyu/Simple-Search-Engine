@@ -1,0 +1,23 @@
+﻿Visual Computing  Research
+
+Innovative Software Design
+
+This research thrust encompasses a wide range of activities with the general goal of developing algorithms and systems that allow computers to gather, process, analyze and understand images and other complex data from the real world. Faculty areas of research include:
+
+Vision, Visualization and Surveillance
+
+Real-time Rendering and Analysis of 3-D Environments
+
+As the Director of the Computer Vision Lab, Dr. George Kamberov is focused on real-time computer vision and graphics, the development and deployment of real-time systems for scene analysis, surveillance and forensics, monitoring and control of large sensor networks, medical imaging, high energy physics, differential geometry, stochastic systems, and differential equations. He has conducted research under the auspices of DARPA, the Office of Naval Research, Verizon Government Services, and the US Army Armament Research, Development and Engineering Center.
+
+Human-centered Visual Computing
+
+A research focus of Dr. Gang Hua, this work explores methods of robustly sensing humans from images and videos, with recent work on human detection, human motion analysis, face recognition, and automatic hand gesture recognition. The research seeks to effectively exploit human feedback in computational visual recognition, such as contextual modeling and active visual learning. It has a wide range of applications that include intelligent video surveillance, interactive visual media annotation, and non-invasive vision based perceptual interfaces.
+
+Large-scale Visual Data Analytics
+
+Dr. Hua's visual data analytics research aims at building intelligent machines to automatically transform the massive quantity of unstructured real world visual media into structured semantic knowledge, which will benefit millions of users by facilitating access to the greatest stores of visual data that have ever been accumulated. Applications of his research in this theme include social media sharing, large scale semantic based image and video search, object recognition and segmentation, and complex video event detection.
+
+Perceptual Organization and 3D Reconstruction
+
+Dr. Philippos Mordohai's computer vision and unsupervised learning research is composed of topics such as perceptual organization, manifold learning, 3D reconstruction and range data analysis. He is working on fundamental perceptual organization problems, such as figure completion and the integrated inference of perceptual structures of different types, such as curves and surfaces, including their boundaries. As an extension of this research, he proposed an approach for manifold learning and function approximation in high-dimensional spaces. He has also extensively investigated 3D reconstruction of binocular, multiple-view and video inputs. Dr. Mordohai is also interested in scene understanding and object recognition from range data acquired by LIDAR sensors. His research is supported by the National Science Foundation, the Department of Homeland Security, and Google, Inc

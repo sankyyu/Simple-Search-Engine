@@ -1,0 +1,41 @@
+﻿Program Overview
+
+Information technology is an exciting and rapidly-evolving field, and an undergraduate major in the discipline offers a tremendous opportunity to obtain the skill set that will provide value over the course of a career. Given that the state of the technology is changing so fast, those in the field must be prepared to constantly advance their knowledge in order to stay current, and the most vital ability fostered in the undergraduate Computer Science curriculum is therefore the capacity and abiding desire to learn more.
+
+Computer science is highly valued as a discipline because, at its core, it teaches fundamental problem-solving skills. It is no accident that some of the most successful U.S. companies of the last half century were established by computer scientists. The Computer Science Department prides itself on programs that combine the rigorous development of problem-solving skills with basic business skills. The latter are learned through project-oriented courses that sometimes involve real companies acting as clients for student projects.
+
+Get answers to Frequently Asked Questions >>
+
+Undergraduate Degrees Offered by the Computer Science Department
+
+The Computer Science department offers two undergraduate degrees: Computer Science and Cybersecurity. Some students also pursue graduate certificates and/or graduate degrees while enrolled in the undergraduate program. Anyone can pursue a graduate certificate; however, there are entrance requirements for students who want to complete the graduate degree while an undergraduate. Visit the Master’s Degree web page to learn more.
+?Computer Science
+
+The Computer Science degree is the degree path followed by most undergraduate students. The degree emphasizes the principles of Computer Science, and prepares students for careers in industry and/or graduate school. Course materials focus on how to design, implement, deploy, and manage sophisticated software systems.
+
+?Cybersecurity
+The Cybersecurity program is similar to the Computer Science program for the first two years. In the last two years, the program focuses on the underpinnings of cybersecurity. This includes work in computer science and mathematics that prepares students for work in areas of information assurance and computer security.
+
+
+Study Plan Details
+
+Freshmen enter the program at different points depending on their background in computing. Students who start at an earlier point catch up to more advanced students in the junior year, when electives start.
+1.Students with some background in computer science from high school (at least a year of programming in an imperative language such as Java) should start with CS 115 (Introduction to Computer Science).
+2.Students with little or no background in computer science should take CS 110 (Creative Problem Solving with Computing) in their first term then take CS 115 in the second semester.
+3.Students in the Honors Program take CS 181 and CS 182 instead of the CS 115 / CS 284 / CS 385 sequence.
+
+The catch-up effect can be seen by comparing the various course sequences on the study plan page.
+
+Stevens Scholars Summer Research Projects
+
+Stevens Scholars is an invitation-only program in which undergraduates apply their engineering and scientific knowledge to design and research. The Stevens Scholars program immerses qualified undergraduates in unique and valuable hands-on exploration and application -- experience not traditionally available at the undergraduate level at most universities. One of many opportunities afforded to Stevens Scholars is the chance to work on a special research project with a Faculty Research Mentor during the summer months.
+
+Below are brief summaries of some of the summer research projects performed in recent years by Stevens Scholars in Computer Science and Cybersecurity:
+
+Summer 2012 -- Joseph Risi Investigating the Crowds advised by Prof. Jeffrey Nickerson
+
+Summer 2012 -- Chris Federici: Strong Randomness from Common Hardware advised by Prof. Antonio Nicolosi
+
+Summer 2012 -- David Orshan and Julian Sexton: Information Flow Security for Android Appsadvised by Prof. David Naumann
+
+Summer 2011 -- Michael Paulauski: Enforcing Information Flow Requirements in Web Applications advised by Prof. David Naumann

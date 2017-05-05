@@ -1,4 +1,4 @@
-ReadMe
+
 
 1. We store Web content in Txt as input.
 2.We use a trie tree to store every word of the input. At the leaf node, we have an occurenceList,a hashmap, which store the list of files that contains the keyword and the frequency in each file. 
@@ -100,7 +100,4 @@ The file: 2.txt. Keyword appears 1 time(s).
 The file: 1.txt. Keyword appears 1 time(s).
 
 ***********************************************************************
-
-
-									Shengkai Yu
 
